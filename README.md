@@ -55,3 +55,5 @@
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ChanduDhakad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ChanduDhakad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChanduDhakad&show_icons=true&locale=en&layout=compact" alt="Languages" /></p>
