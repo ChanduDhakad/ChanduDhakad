@@ -18,7 +18,7 @@
 - 🥅 2022 goals: Make project and contribute to Open Source
 - ⚡ Fun fact: I love to make photos and videos
 - 🔭 I just launched my portfolio: **[https://chandudhakad.github.io/](chandudhakad.github.io)**
-- See my experience over the year: **[Resume](https://drive.google.com/drive/u/0/folders/1ZGtTyYCFbl4lIrFFrkHBiJBVPrhfMY3d/view)**
+- See my experience over the year: **[Resume](https://drive.google.com/drive/u/0/folders/1ZGtTyYCFbl4lIrFFrkHBiJBVPrhfMY3d/view?usp=sharing)**
 
   <br />
 
