@@ -13,7 +13,7 @@ Java Backend Developer has in-depth training in system architecture, software de
 
 ### What I'm focusing on 👨‍💻
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 - 🌱 Currently learning Java programming 😎
 - 👯 I’m looking to collaborate with other developer
