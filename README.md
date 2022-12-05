@@ -6,7 +6,7 @@
 Java Backend Developer has in-depth training in system architecture, software development, and frameworks.
 
 [![Portfolio Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://chandudhakad.github.io)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ChanduDhakad/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Chandu-Dhakad/)
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ChanduDhakad.visitor-badge.issue.1&title=Github%20Visitors)
 <br/>
