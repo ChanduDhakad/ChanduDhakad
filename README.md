@@ -1,56 +1,32 @@
+# Hi, I'm [Chandra Prakash](https://chandudhakad.github.io/) 👋
+![Coding GIF](https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true)
 
-# Hi, Myself <a href="https://chandudhakad.github.io/" target="_blank">Chandra Prakash</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I'm a Web Developer, Designer, and Lifelong Learner! As a Java Backend Developer, I have in-depth training in system architecture, software development, and frameworks.
 
-## I'm a Web Developer, Designer and Life-Long Learner!
+[![Portfolio](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://chandudhakad.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Chandu-Dhakad/)
+![GitHub Visitors](https://visitor-badge.laobi.icu/badge?page_id=ChanduDhakad.visitor-badge.issue.1&title=Github%20Visitors)
 
-Java Backend Developer has in-depth training in system architecture, software development, and frameworks.
-
-[![Portfolio Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://chandudhakad.github.io)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Chandu-Dhakad/)
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ChanduDhakad.visitor-badge.issue.1&title=Github%20Visitors)
-<br/>
-
-### What I'm focusing on 👨‍💻
-
-
-
+### What I'm Focusing On 👨‍💻
 - 🌱 Currently learning Java programming 😎
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2022 goals: Make project and contribute to Open Source
-- ⚡ Fun fact: I love to make photos and videos
-- 🔭 I just launched my portfolio: **[https://chandudhakad.github.io](https://chandudhakad.github.io)**
-- See my experience over the year: **[Resume](https://drive.google.com/drive/u/0/folders/1ZGtTyYCFbl4lIrFFrkHBiJBVPrhfMY3d)**
-- Corrently working on proejct :**[E-Commmerce Application](https://github.com/ChanduDhakad/E-commerece)**
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2022 goals: Make projects and contribute to Open Source
+- ⚡ Fun fact: I love making photos and videos
+- 🔭 I just launched my portfolio: [Check it out](https://chandudhakad.github.io)
+- See my experience over the years: [Resume](https://drive.google.com/drive/u/0/folders/1ZGtTyYCFbl4lIrFFrkHBiJBVPrhfMY3d)
+- Currently working on: [E-Commerce Application](https://github.com/ChanduDhakad/E-commerece)
 
-  <br />
-
-### Familiar Tech Stack:
-
-<!-- coding boy -->
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
-
-<!-- language -->
-
+### Familiar Tech Stack 🚀
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,php,mysql,js,html,css)]()
 
-<br/>
-
-### Used Tools:
-
+### Used Tools 🛠️
 [![My Skills](https://skillicons.dev/icons?i=git,github,netlify,heroku,vscode,sts,eclips)]()
 
-
-<br />
-
-### Interests:
-
+### Interests 🌍
 - Explore new Tech 💻
-- Travel & Ride 🌎
+- Travel & Ride 🚲
 
-
-<!-- ### My GitHub Stats: -->
-
+### GitHub Stats 📈
 <p>
   <img src="https://activity-graph.herokuapp.com/graph?username=ChanduDhakad&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
 </p>
