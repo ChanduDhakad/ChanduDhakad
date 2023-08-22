@@ -10,7 +10,7 @@ Ambitious Java Backend Developer, proficient in Java and Spring Boot, with a dee
 ### What I'm Focusing On 👨‍💻
 - 🌱 Currently learning Java programming 😎
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 goals: Make projects and contribute to Open Source
+- 🥅 2023 goals: Make projects and contribute to Open Source
 - ⚡ Fun fact: I love making photos and videos
 - 🔭 I just launched my portfolio: [Check it out](https://chandudhakad.github.io)
 - See my experience over the years: [Resume](https://drive.google.com/drive/u/0/folders/1ZGtTyYCFbl4lIrFFrkHBiJBVPrhfMY3d)
