@@ -1,7 +1,7 @@
 # Hi, I'm [Chandra Prakash](https://chandudhakad.github.io/) 👋
 ![Coding GIF](https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true)
 
-I'm a Web Developer, Designer, and Lifelong Learner! As a Java Backend Developer, I have in-depth training in system architecture, software development, and frameworks.
+Ambitious Java Backend Developer, proficient in Java and Spring Boot, with a deep understanding of RESTful APIs, enthusiastic to learn and explore new technologies. 1200+ hours of practical experience in coding, and building numerous websites and applications. Strongly interested in obtaining a backend developer position to create impactful and scalable products.
 
 [![Portfolio](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://chandudhakad.github.io)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Chandu-Dhakad/)
